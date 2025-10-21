@@ -1,9 +1,9 @@
-<h1 align="left">Hallo Sunshine!🔥</h1>
 
 ###
 
 ![Header](./img/github-header-banner.png)
 
+<h1 align="left">Hallo Sunshine!🔥</h1>
 
 ###
 
@@ -59,6 +59,8 @@
 <img align="right" height="120" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWpmMWtsOHU1MWhydTFhYWwxaDQzcGI0MWVqbjBlaHE1eXE2YzQ2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
+
+<p align="left"></p>
 
 <h3 align="left">Follow me! 🤖</h3>
 
