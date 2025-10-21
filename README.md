@@ -1,13 +1,25 @@
-
-###
-
-![Header](./img/github-header-banner.png)
+<!-- Header -->
+<div align="center">
+  <img src="./img/github-header-banner.png" width="100%" alt="Header Banner" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fiksdevploper/fiksdevploper/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fiksdevploper/fiksdevploper/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fiksdevploper/fiksdevploper/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<img align="right" height="400" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/31bcuv7nnurzj7de4ga3wmm4crhe">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bcuv7nnurzj7de4ga3wmm4crhe&count=6&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
@@ -52,14 +64,6 @@
   </a>
   <a href="https://www.hackerrank.com/profile/muhammadfikri101" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31bcuv7nnurzj7de4ga3wmm4crhe">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bcuv7nnurzj7de4ga3wmm4crhe&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
