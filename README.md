@@ -12,14 +12,6 @@
 
 ###
 
-<img align="left" height="120" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWpmMWtsOHU1MWhydTFhYWwxaDQzcGI0MWVqbjBlaHE1eXE2YzQ2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-
-###
-
-<p align="left">Hallo Perkenalkan saya muhammad fikri seorang mahasiswa ilmu komputer yang tertarik pada dunia ai dan machine learning, saat ini saya gembar sekali melakukan penelitian/membuat inovasi machine learning terlebih pada sektor kesehatan, dan pertanian.</p>
-
-###
-
 <h2 align="left"></h2>
 
 ###
@@ -98,7 +90,11 @@
 
 ###
 
-<h3 align="left">Follow me!</h3>
+<img align="right" height="120" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWpmMWtsOHU1MWhydTFhYWwxaDQzcGI0MWVqbjBlaHE1eXE2YzQ2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+
+###
+
+<h3 align="left">Follow me! 🤖</h3>
 
 ###
 
