@@ -3,10 +3,6 @@
 
 ![Header](./img/github-header-banner.png)
 
-<h1 align="left">Hello Sunshine!</h1>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fiksdevploper/fiksdevploper/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fiksdevploper/fiksdevploper/output/pacman-contribution-graph.svg">
@@ -39,6 +35,32 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<h2 align="left">Follow Me!</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/muhammad-fikri-b3766a2b1/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/sunshinewoon/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/muhammadfikri101" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31bcuv7nnurzj7de4ga3wmm4crhe">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bcuv7nnurzj7de4ga3wmm4crhe&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
