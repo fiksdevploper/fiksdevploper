@@ -3,7 +3,11 @@
 
 ![Header](./img/github-header-banner.png)
 
-<img align="left" height="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnptZnZuZ2x0dTAzanIybHdrbGcxZThxbjdjZzJ3MnFqdTQyd3lvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+<img align="left" height="800" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnptZnZuZ2x0dTAzanIybHdrbGcxZThxbjdjZzJ3MnFqdTQyd3lvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+
+###
+
+<h3 align="left">Personal😎</h3>
 
 ###
 
@@ -12,10 +16,6 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bcuv7nnurzj7de4ga3wmm4crhe&count=3&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<h3 align="left"></h3>
 
 ###
 
