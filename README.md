@@ -3,6 +3,14 @@
   <img src="./img/github-header-banner.png" width="100%" alt="Header Banner" />
 </div>
 
+<h2 align="left">Hallo Sunshine ☀️</h2>
+
+###
+
+<p align="left">Hallo!, Perkenalkan nama saya Muhammad Fikri<br><br>Sebagai mahasiswa Ilmu Komputer yang berfokus pada AI & Machine Learning, saya memiliki misi untuk mengubah data menjadi solusi nyata, khususnya di sektor kesehatan. Melalui portofolio proyek seperti Model Prediksi Diabetes, Model Klasifikasi Penyakit jantung, dan Model Deteksi Kanker Payudara, saya telah membuktikan kemampuan saya dalam menerapkan algoritma Machine Learning untuk memecahkan masalah kritis dengan tingkat akurasi yang tinggi.<br><br>Pengalaman saya diperkaya dengan partisipasi dalam program-program pelatihan bergengsi, termasuk beasiswa AI dari Google (AVPN), IDCamp (indosat), dan program Machine Learning dari DBS Foundation. Pengalaman ini memperkuat fondasi teknis dan pemahaman saya tentang potensi AI dalam menciptakan dampak sosial yang signifikan. Saya mencari peluang untuk terus belajar dan berkontribusi pada tim yang inovatif.</p>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fiksdevploper/fiksdevploper/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fiksdevploper/fiksdevploper/output/pacman-contribution-graph.svg">
