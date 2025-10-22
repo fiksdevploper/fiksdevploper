@@ -135,14 +135,6 @@
 
 ###
 
-<div align="center">
-  <img height="800" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjd0ZDZ3eWlwOHN4ZGluNTg0bGlvcDRmbmxoenV5cWt5OGx2Z3BmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif"  />
-</div>
-
-###
-
-###
-
 <p align="center">copyright©fiksdevloper2025</p>
 
 ###
