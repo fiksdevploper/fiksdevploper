@@ -3,7 +3,7 @@
   <img src="./img/github-header-banner.png" width="100%" alt="Header Banner" />
 </div>
 
-<h2 align="left">Hallo Sunshine ☀️</h2>
+<h2 align="left">Siapa Aku?</h2>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<h2 align="left">Tech Stack🔥</h2>
+<h2 align="left">🌐Tech Stack</h2>
 
 ###
 
