@@ -73,8 +73,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fiksdevploper&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=fiksdevploper&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+
+  <img src="https://streak-stats.demolab.com?user=fiksdevploper&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=8" height="220" alt="streak graph" />
+
 </div>
 
 ---
