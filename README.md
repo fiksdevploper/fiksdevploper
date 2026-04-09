@@ -1,71 +1,63 @@
-<img src="https://raw.githubusercontent.com/fiksdevploper/fiksdevploper/output/snake.svg" alt="Snake animation" />
+# Hi, I'm Muhammad Fikri 👋
 
-###
+**ML Engineer Intern** — Building intelligent systems, one model at a time.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/muhammad-fikri-b3766a2b1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/sunshinewoon/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/muhammadfikri101" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  </a>
-</div>
+- 🔭 Currently working as an **ML Engineer Intern** at a Jakarta-based company  
+- 📚 Actively learning **AI/ML Engineering**, MLOps, and production deployment  
+- ⚡ Building side projects as portfolio — from model training to REST API serving  
+- 📍 Based in **Indonesia**
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fiksdevploper.fiksdevploper&"  />
-</div>
+## 🛠️ Tech Stack
 
-###
+### Machine Learning & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
-<h1 align="center">hey there 👋</h1>
+### Backend & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
-###
+### Tools & Data
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+## 🔬 Featured Projects
 
-<p align="left">I'm engineer Intern from jakarta company<br><br>- 🔭 I’m working as ml engineer<br>- 📚 I'm currently learning ai/ml enginering<br>- ⚡ In my spare time, I work on side projects as my portfolio.</p>
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🫀 **Heart Disease Classifier** | Classification on Heart Statlog Cleveland Hungary dataset. Benchmarked RF, XGBoost, LightGBM with sklearn Pipeline | `scikit-learn` `XGBoost` `LightGBM` |
+| 🔬 **Cancer Detection Model** | Binary classification with focus on model generalization and overfitting diagnosis | `Python` `pandas` `matplotlib` |
+| ✅ **TaskFlow API** *(WIP)* | RESTful task management API — Pydantic validation, CRUD, production-ready structure | `FastAPI` `Pydantic` |
+| 🚀 **ML Model Serving** | Integrating trained sklearn pipelines with FastAPI for real-time prediction endpoints | `FastAPI` `joblib` `Docker` |
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=fiksdevploper&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=fiksdevploper&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=8" height="220" alt="streak graph" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fiksdevploper&show_icons=true&theme=dark&hide_border=false&border_radius=8&count_private=true" height="160" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiksdevploper&layout=compact&theme=dark&hide_border=false&border_radius=8" height="160" />
+</div>
+
+---
+
+<div align="center">
+  <sub>// muhammad-fikri · ml engineer intern · indonesia</sub>
+</div>
