@@ -12,11 +12,6 @@
 <a href="https://www.hackerrank.com/profile/muhammadfikri101" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="28"/>
 </a>
-
-<br/><br/>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=fiksdevploper.fiksdevploper" />
-
 </div>
 
 ---
