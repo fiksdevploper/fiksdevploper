@@ -68,14 +68,8 @@
   <img src="https://streak-stats.demolab.com?user=fiksdevploper&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=8" height="220" alt="streak graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fiksdevploper&show_icons=true&theme=dark&hide_border=false&border_radius=8&count_private=true" height="160" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiksdevploper&layout=compact&theme=dark&hide_border=false&border_radius=8" height="160" />
-</div>
-
 ---
 
 <div align="center">
-  <sub>// muhammad-fikri · ml engineer intern · indonesia</sub>
+  <sub>muhammad-fikri · ml engineer intern · indonesia</sub>
 </div>
