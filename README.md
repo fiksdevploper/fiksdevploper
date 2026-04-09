@@ -64,9 +64,9 @@
 
 ## 📜 Sertifikasi & Pencapaian
 
-* **[Nama Sertifikasi AI/ML]** – [Penyelenggara, misal: Coursera/Dicoding] (202X)
-* **[Nama Sertifikasi Cloud/Backend]** – [Penyelenggara] (202X)
-* **HackerRank Problem Solving (Intermediate)** – Verified Skills in Python & Algorithms.
+* **[Machine Learning Operations (MLOps) untuk AI Generatif]** – [Google] (2025)
+* **[Belajar Dasar Visualisasi Data]** – [Dicoding Indonesia] (2025 - 2028)
+* **[Innovating with Google Cloud Artificial Intelligence]** – [Google] (2025)
 
 ---
 
