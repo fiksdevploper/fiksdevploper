@@ -1,3 +1,12 @@
+# Hi, I'm Muhammad Fikri 👋
+
+**ML Engineer Intern** — Building intelligent systems, one model at a time.
+
+- 🔭 Currently working as an **ML Engineer Intern** at a Jakarta-based company  
+- 📚 Actively learning **AI/ML Engineering**, MLOps, and production deployment  
+- ⚡ Building side projects as portfolio — from model training to REST API serving  
+- 📍 Based in **Indonesia**
+
 <div align="center">
 
 <!-- Badges -->
@@ -13,17 +22,6 @@
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="28"/>
 </a>
 </div>
-
----
-
-# Hi, I'm Muhammad Fikri 👋
-
-**ML Engineer Intern** — Building intelligent systems, one model at a time.
-
-- 🔭 Currently working as an **ML Engineer Intern** at a Jakarta-based company  
-- 📚 Actively learning **AI/ML Engineering**, MLOps, and production deployment  
-- ⚡ Building side projects as portfolio — from model training to REST API serving  
-- 📍 Based in **Indonesia**
 
 ---
 
