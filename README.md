@@ -62,6 +62,16 @@
 
 ---
 
+---
+
+## 📜 Sertifikasi & Pencapaian
+
+* **[Nama Sertifikasi AI/ML]** – [Penyelenggara, misal: Coursera/Dicoding] (202X)
+* **[Nama Sertifikasi Cloud/Backend]** – [Penyelenggara] (202X)
+* **HackerRank Problem Solving (Intermediate)** – Verified Skills in Python & Algorithms.
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
