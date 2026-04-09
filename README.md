@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<img src="https://raw.githubusercontent.com/fiksdevploper/fiksdevploper/output/snake.svg" alt="Snake animation" />
 
 ###
 
