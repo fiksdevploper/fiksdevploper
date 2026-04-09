@@ -64,9 +64,9 @@
 
 ## 📜 Sertifikasi & Pencapaian
 
-* **[Machine Learning Operations (MLOps) untuk AI Generatif]** – [Google] (2025)
-* **[Belajar Dasar Visualisasi Data]** – [Dicoding Indonesia] (2025 - 2028)
-* **[Innovating with Google Cloud Artificial Intelligence]** – [Google] (2025)
+* **Machine Learning Operations (MLOps) untuk AI Generatif** – Google 2025
+* **Belajar Dasar Visualisasi Data** – Dicoding Indonesia 2025 - 2028
+* **Innovating with Google Cloud Artificial Intelligence** – Google 2025
 
 ---
 
