@@ -62,9 +62,9 @@
 ---
 
 <div align="center">
-
+ 
 *"First, solve the problem. Then, write the code."*
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fiksdevploper&show_icons=true&theme=dark&hide_border=false&border_radius=8&include_all_commits=true&count_private=true)
-
+ 
+![Profile Views](https://komarev.com/ghpvc/?username=fiksdevploper&color=0e75b6&style=flat-square)
+ 
 </div>
