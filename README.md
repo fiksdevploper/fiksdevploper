@@ -56,6 +56,8 @@
 
 <img src="https://streak-stats.demolab.com?user=fiksdevploper&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=8&card_width=500" height="200" alt="GitHub Streak" />
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fiksdevploper&theme=github_dark" />
+
 </div>
 
 ---
