@@ -57,10 +57,6 @@
 
 <img src="https://streak-stats.demolab.com?user=fiksdevploper&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=8&card_width=500" height="200" alt="GitHub Streak" />
 
-<br/>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fiksdevploper&layout=compact&theme=dark&hide_border=false&border_radius=8)
-
 </div>
 
 ---
