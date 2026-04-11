@@ -65,6 +65,6 @@
 
 *"First, solve the problem. Then, write the code."*
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fiksdevploper&layout=compact&theme=dark&hide_border=false&border_radius=8&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fiksdevploper&show_icons=true&theme=dark&hide_border=false&border_radius=8&include_all_commits=true&count_private=true)
 
 </div>
