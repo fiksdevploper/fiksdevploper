@@ -1,40 +1,32 @@
-# Hi, I'm Muhammad Fikri 👋
+<div align="center">
 
-**ML Engineer Intern** — Building intelligent systems, one model at a time.
+# Muhammad Fikri
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXF4eXJueXF4eXJueXF4eXJueXF4eXJueXF4eHkmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF">
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://www.linkedin.com/in/muhammad-fikri-b3766a2b1/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
-      </a><br><br>
-      <a href="https://www.instagram.com/sunshinewoon/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28"/>
-      </a><br><br>
-      <a href="https://www.hackerrank.com/profile/muhammadfikri101" target="_blank">
-        <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="28"/>
-      </a>
-    </td>
-  </tr>
-</table>
+**ML Engineer Intern** · Building intelligent systems, one model at a time.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fikri-b3766a2b1/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sunshinewoon/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/muhammadfikri101)
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 🔭 Currently working as an **ML Engineer Intern** at a Jakarta-based company  
-- 📚 Actively learning **AI/ML Engineering**, MLOps, and production deployment  
-- ⚡ Building side projects as portfolio — from model training to REST API serving  
+- 🔭 Currently working as an **ML Engineer Intern** at a Jakarta-based company
+- 📚 Actively learning **AI/ML Engineering**, MLOps, and production deployment
+- ⚡ Building side projects as portfolio — from model training to REST API serving
 - 📍 Based in **Indonesia**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Machine Learning & AI
+**Machine Learning & AI**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -42,7 +34,8 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
-### Backend & Deployment
+**Backend & Deployment**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
@@ -53,15 +46,31 @@
 ## 🔬 Featured Projects
 
 | Project | Description | Stack |
-|--------|-------------|-------|
-| 🫀 **Heart Disease Classifier** | Classification on Heart Statlog Cleveland Hungary dataset. | `scikit-learn` `XGBoost` |
-| ✅ **TaskFlow API** *(WIP)* | RESTful task management API — Pydantic validation. | `FastAPI` `Pydantic` |
-| 🚀 **ML Model Serving** | Integrating sklearn pipelines with FastAPI + Docker. | `FastAPI` `Docker` |
+|:--------|:------------|:------|
+| 🫀 **[Heart Disease Classifier](https://github.com/fiksdevploper)** | Classification model on the Heart Statlog Cleveland Hungary dataset | `scikit-learn` `XGBoost` |
+| ✅ **[TaskFlow API](https://github.com/fiksdevploper)** *(WIP)* | RESTful task management API with Pydantic validation | `FastAPI` `Pydantic` |
+| 🚀 **[ML Model Serving](https://github.com/fiksdevploper)** | Integrating sklearn pipelines with FastAPI + Docker | `FastAPI` `Docker` `MLflow` |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=fiksdevploper&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=8" height="220" alt="streak graph" />
+
+<img src="https://streak-stats.demolab.com?user=fiksdevploper&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=8&card_width=500" height="200" alt="GitHub Streak" />
+
+<br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fiksdevploper&layout=compact&theme=dark&hide_border=false&border_radius=8)
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=fiksdevploper&color=0e75b6&style=flat-square)
+
 </div>
