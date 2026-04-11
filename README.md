@@ -1,152 +1,67 @@
 # Hi, I'm Muhammad Fikri 👋
 
-
-
 **ML Engineer Intern** — Building intelligent systems, one model at a time.
 
-
-
-- 🔭 Currently working as an **ML Engineer Intern** at a Jakarta-based company  
-
-- 📚 Actively learning **AI/ML Engineering**, MLOps, and production deployment  
-
-- ⚡ Building side projects as portfolio — from model training to REST API serving  
-
-- 📍 Based in **Indonesia**
-
-
-
-<div align="center">
-
-
-
-<!-- Badges -->
-
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/muhammad-fikri-b3766a2b1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/sunshinewoon/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/muhammadfikri101" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  </a>
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXF4eXJueXF4eXJueXF4eXJueXF4eXJueXF4eHkmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF">
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://www.linkedin.com/in/muhammad-fikri-b3766a2b1/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
+      </a><br><br>
+      <a href="https://www.instagram.com/sunshinewoon/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28"/>
+      </a><br><br>
+      <a href="https://www.hackerrank.com/profile/muhammadfikri101" target="_blank">
+        <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="28"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
+## 🚀 About Me
 
+- 🔭 Currently working as an **ML Engineer Intern** at a Jakarta-based company  
+- 📚 Actively learning **AI/ML Engineering**, MLOps, and production deployment  
+- ⚡ Building side projects as portfolio — from model training to REST API serving  
+- 📍 Based in **Indonesia**
+
+---
 
 ## 🛠️ Tech Stack
 
-
-
 ### Machine Learning & AI
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
-
-
 ### Backend & Deployment
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
-
-
-### Tools & Data
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-
-
 ---
-
-
 
 ## 🔬 Featured Projects
 
-
-
 | Project | Description | Stack |
-
 |--------|-------------|-------|
-
-| 🫀 **Heart Disease Classifier** | Classification on Heart Statlog Cleveland Hungary dataset. Benchmarked RF, XGBoost, LightGBM with sklearn Pipeline | `scikit-learn` `XGBoost` `LightGBM` |
-
-| 🔬 **Cancer Detection Model** | Binary classification with focus on model generalization and overfitting diagnosis | `Python` `pandas` `matplotlib` |
-
-| ✅ **TaskFlow API** *(WIP)* | RESTful task management API — Pydantic validation, CRUD, production-ready structure | `FastAPI` `Pydantic` |
-
-| 🚀 **ML Model Serving** | Integrating trained sklearn pipelines with FastAPI for real-time prediction endpoints | `FastAPI` `joblib` `Docker` |
-
-
+| 🫀 **Heart Disease Classifier** | Classification on Heart Statlog Cleveland Hungary dataset. | `scikit-learn` `XGBoost` |
+| ✅ **TaskFlow API** *(WIP)* | RESTful task management API — Pydantic validation. | `FastAPI` `Pydantic` |
+| 🚀 **ML Model Serving** | Integrating sklearn pipelines with FastAPI + Docker. | `FastAPI` `Docker` |
 
 ---
-
-
-
-## 📜 Certification
-
-
-
-* **Machine Learning Operations (MLOps) untuk AI Generatif** – Google 2025
-
-* **Belajar Dasar Visualisasi Data** – Dicoding Indonesia 2025 - 2028
-
-* **Innovating with Google Cloud Artificial Intelligence** – Google 2025
-
-
-
----
-
-
 
 ## 📊 GitHub Stats
 
-
-
 <div align="center">
-
-
-
   <img src="https://streak-stats.demolab.com?user=fiksdevploper&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=8" height="220" alt="streak graph" />
-
-
-
-</div>
-
-
-
----
-
-
-
-<div align="center">
-
-  <sub>muhammad-fikri · ml engineer intern · indonesia</sub>
-
 </div>
