@@ -61,6 +61,14 @@
 
 ---
 
+## 💻 Most Used Languages
+
+![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-60%25-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-40%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
 <div align="center">
  
 *"First, solve the problem. Then, write the code."*
