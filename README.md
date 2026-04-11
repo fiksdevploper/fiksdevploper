@@ -69,6 +69,6 @@
 
 *"First, solve the problem. Then, write the code."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=fiksdevploper&color=0e75b6&style=flat-square)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fiksdevploper&layout=compact&theme=dark&hide_border=false&border_radius=8&cache_seconds=1800)
 
 </div>
