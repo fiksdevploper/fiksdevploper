@@ -53,13 +53,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats-mrxd.vercel.app/api?username=fiksdevploper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-mrxd.vercel.app/api/top-langs/?username=fiksdevploper&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&hide=jupyter%20notebook,java,php,html,css,javascript,blade,c%2B%2B" height="180" />
+</div>
 
-<img src="https://streak-stats.demolab.com/?user=fiksdevploper&theme=tokyonight-duo&hide_border=false" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=fiksdevploper&theme=tokyonight-duo&hide_border=true" />
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fiksdevploper&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fiksdevploper&theme=github_dark" />
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fiksdevploper&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
