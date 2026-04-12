@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=fiksdevploper&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=8&card_width=500" height="200" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=fiksdevploper&theme=tokyonight-duo&hide_border=false" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fiksdevploper&theme=github_dark" />
 
