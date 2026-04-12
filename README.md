@@ -1,6 +1,6 @@
 <div align="center">
 
-# Muhammad Fikri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+# Muhammad Fikri <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" />
 
 **ML Engineer Intern** · Building intelligent systems, one model at a time.
 
