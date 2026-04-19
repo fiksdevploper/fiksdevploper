@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 ML Engineer Intern @ Jakarta — building & deploying classification models in production
+- 🔭 ML Engineer Intern in Jakarta — building & deploying classification models in production
 - 🫀 Achieved **~89% accuracy** on heart disease classification (Extra Trees · scikit-learn Pipeline)
 - 🔬 Built **OncoVision AI** — end-to-end cancer detection with a live frontend dashboard
 - 📚 Deep-diving into **MLOps**: Docker, MLflow, model serving, CI/CD for ML
