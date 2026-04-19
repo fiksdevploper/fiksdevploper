@@ -13,10 +13,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working as an **ML Engineer Intern** at a Jakarta-based company
-- 📚 Actively learning **AI/ML Engineering**, MLOps, and production deployment
-- ⚡ Building side projects as portfolio — from model training to REST API serving
-- 📍 Based in **Indonesia**
+- 🔭 ML Engineer Intern @ Jakarta — building & deploying classification models in production
+- 🫀 Achieved **~89% accuracy** on heart disease classification (Extra Trees · scikit-learn Pipeline)
+- 🔬 Built **OncoVision AI** — end-to-end cancer detection with a live frontend dashboard
+- 📚 Deep-diving into **MLOps**: Docker, MLflow, model serving, CI/CD for ML
+- 📍 Indonesia 🇮🇩 · Open to collaborate on ML / FastAPI projects
 
 ---
 
@@ -37,6 +38,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+**Data & Experimentation**
+
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
@@ -69,7 +76,7 @@
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
+*"Models don't lie — but data can. Clean it first."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fiksdevploper&color=0e75b6&style=flat-square)
 
