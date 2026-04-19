@@ -57,6 +57,16 @@
 
 ---
 
+## 🏆 Certifications
+
+- 🤖 **Machine Learning Operations (MLOps) untuk AI Generatif** — Google · [View](https://www.skills.google/public_profiles/2e118d63-915a-4028-b667-9e57af719b6f/badges/17281299?qlcampaign=gs)
+- ☁️ **Innovating with Google Cloud Artificial Intelligence** — Google · [View](https://www.skills.google/public_profiles/2e118d63-915a-4028-b667-9e57af719b6f/badges/17007714)
+- 🎤 **Using the Google Cloud Speech API** — Google · [View](https://www.credly.com/badges/52fce0ec-cf77-41a4-9614-483915a5d550/linked_in_profile)
+- 🗣️ **Analyze Speech and Language with Google APIs** — Google · [View](https://www.credly.com/badges/7fd1f2cd-1b11-4909-9694-b68690c42a5c/linked_in_profile)
+- 📊 **Belajar Dasar Visualisasi Data** — Dicoding Indonesia · [View](https://www.dicoding.com/certificates/ERZREV30QXYV)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
