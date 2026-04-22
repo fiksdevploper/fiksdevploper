@@ -70,7 +70,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-mrxd.vercel.app/api?username=fiksdevploper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=fiksdevploper&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="fiksdevploper's GitHub Stats" />
+  
   <img src="https://github-readme-stats-mrxd.vercel.app/api/top-langs/?username=fiksdevploper&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&hide=jupyter%20notebook,java,php,html,css,javascript,blade,c%2B%2B" height="180" />
 </div>
 
