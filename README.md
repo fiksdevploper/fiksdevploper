@@ -92,13 +92,3 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=fiksdevploper&color=0e75b6&style=flat-square)
 
 </div>
-
-## ☕ Support
-
-If you find this helpful, consider supporting me!
-
-<div align="start">
-  <a href="https://trakteer.id/engginer_magang">
-    <img src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="40" alt="Trakteer"/>
-  </a>
-</div>
