@@ -71,8 +71,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
   <!-- Statistik Utama & Top Languages (Berdampingan) -->
   <img src="https://github-readme-stats.vercel.app/api?username=fiksdevploper&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="fiksdevploper's GitHub Stats" />
