@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="img/unduhan.jpg" alt="Banner" width="100%">
+</p>
+
 # Muhammad Fikri <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" />
 
 **ML Engineer Intern** · Building intelligent systems, one model at a time.
