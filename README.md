@@ -6,7 +6,7 @@
 
 # Muhammad Fikri <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" />
 
-**ML Engineer Intern** · Building intelligent systems, one model at a time.
+**AI/ML Enginering Enthusiast** · Building intelligent systems, one model at a time.
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fiksdev.pages.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fikri-b3766a2b1/)
@@ -55,16 +55,6 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
----
-
-## 🔬 Featured Projects
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| 🫀 **[Heart Disease Classifier](https://github.com/fiksdevploper)** | Classification model on the Heart Statlog Cleveland Hungary dataset | `scikit-learn` `XGBoost` |
-| ✅ **[TaskFlow API](https://github.com/fiksdevploper)** *(WIP)* | RESTful task management API with Pydantic validation | `FastAPI` `Pydantic` |
-| 🚀 **[ML Model Serving](https://github.com/fiksdevploper)** | Integrating sklearn pipelines with FastAPI + Docker | `FastAPI` `Docker` `MLflow` |
 
 ---
 
