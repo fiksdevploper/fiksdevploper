@@ -81,19 +81,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Statistik Utama & Top Languages (Berdampingan) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=fiksdevploper&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="fiksdevploper's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiksdevploper&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="fiksdevploper's Top Languages" />
-
-  <br/><br/>
 
   <!-- Streak Stats Card -->
   <img src="https://streak-stats.demolab.com/?user=fiksdevploper&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
 
   <br/><br/>
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fiksdevploper&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -103,5 +95,4 @@
 *"Models don't lie — but data can. Clean it first."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fiksdevploper&color=0e75b6&style=flat-square)
-
 </div>
