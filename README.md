@@ -28,33 +28,33 @@
 ---
 
 ## Tech Stack
-
-### Machine Learning & AI
-
-![Python](https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-1F2937?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1F2937?style=flat-square&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-1F2937?style=flat-square&logo=huggingface&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-1F2937?style=flat-square&logo=jupyter&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-1F2937?style=flat-square&logo=kaggle&logoColor=white)
-
-### Backend & Deployment
-
-![FastAPI](https://img.shields.io/badge/FastAPI-1F2937?style=flat-square&logo=fastapi&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-1F2937?style=flat-square&logo=gunicorn&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-1F2937?style=flat-square&logo=googlecloud&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-1F2937?style=flat-square&logo=mlflow&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-1F2937?style=flat-square&logo=laravel&logoColor=white)
-
-### Data & Experimentation
-
-![pandas](https://img.shields.io/badge/pandas-1F2937?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-1F2937?style=flat-square&logo=numpy&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-1F2937?style=flat-square&logo=mysql&logoColor=white)
+ 
+### ML & Data Science
+ 
+![Python](https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=FFD43B)
+![PyTorch](https://img.shields.io/badge/PyTorch-1F2937?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1F2937?style=flat-square&logo=scikit-learn&logoColor=F7931E)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-1F2937?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![pandas](https://img.shields.io/badge/pandas-1F2937?style=flat-square&logo=pandas&logoColor=E70488)
+![NumPy](https://img.shields.io/badge/NumPy-1F2937?style=flat-square&logo=numpy&logoColor=4DABCF)
+![Jupyter](https://img.shields.io/badge/Jupyter-1F2937?style=flat-square&logo=jupyter&logoColor=F37626)
+![Kaggle](https://img.shields.io/badge/Kaggle-1F2937?style=flat-square&logo=kaggle&logoColor=20BEFF)
+ 
+### MLOps & Cloud
+ 
+![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=2496ED)
+![MLflow](https://img.shields.io/badge/MLflow-1F2937?style=flat-square&logo=mlflow&logoColor=0194E2)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-1F2937?style=flat-square&logo=googlecloud&logoColor=4285F4)
+ 
+### Backend & Databases
+ 
+![FastAPI](https://img.shields.io/badge/FastAPI-1F2937?style=flat-square&logo=fastapi&logoColor=009688)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-1F2937?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-1F2937?style=flat-square&logo=pydantic&logoColor=E92063)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1F2937?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-1F2937?style=flat-square&logo=pydantic&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-1F2937?style=flat-square&logo=laravel&logoColor=FF2D20)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1F2937?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
@@ -76,6 +76,8 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=fiksdevploper&theme=tokyonight-duo&hide_border=true">
   <img alt="GitHub contribution streak for fiksdevploper: current streak, total contributions, and longest streak" src="https://streak-stats.demolab.com/?user=fiksdevploper&theme=default&hide_border=true">
 </picture>
+
+<img src="https://ghstats.dev/api/langs?username=fiksdevploper&theme=tokyonight&hide_border=true&hide_title=true&layout=grid&bg_color=00000000" alt="Top Languages" />
 
 </div>
 
